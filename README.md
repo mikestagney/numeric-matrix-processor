@@ -4,7 +4,7 @@ Command line program that can perform 6 different linear algebra operations on n
 
 ## Things learned
 
-Linear algeabra
+Linear algebra
 
 Recursion to calculate determinant
 
@@ -15,7 +15,7 @@ The six operations:
 * Add matrices
 * Multiply matrix by a constant
 * Multiply matrices
-* Transpose matrix
+* Transpose matrix (4 different options)
 * Calculate a determinant
 * Inverse matrix
 
