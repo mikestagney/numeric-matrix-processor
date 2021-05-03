@@ -4,7 +4,7 @@ Command line program that can perform 6 different linear algebra operations on n
 
 ## Things learned
 
-Linear algebra
+Linear algebra - Essence of Linear Algebra by 3Blue1Brown (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and Kahn Academy website
 
 Recursion to calculate determinant
 
