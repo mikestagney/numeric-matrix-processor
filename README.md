@@ -81,9 +81,9 @@ Enter matrix:\
 \> &emsp;6 &emsp;6 &emsp;4\
 \> &emsp;4 &emsp;2 &emsp;1\
 The result is:\
-&emsp;1 &emsp;6 &emsp;4\
-&emsp;7 &emsp;6 &emsp;2\
-&emsp;7 &emsp;4 &emsp;1
+1 &emsp;6 &emsp;4\
+7 &emsp;6 &emsp;2\
+7 &emsp;4 &emsp;1
  ```
 1. Add matrices
 2. Multiply matrix by a constant
@@ -105,6 +105,6 @@ Enter second matrix:\
 \> &emsp;5 &emsp;5 &emsp;9\
 \> &emsp;8 &emsp;0 &emsp;10\
 The result is:\
-&emsp;94 &emsp;37 &emsp;137\
-&emsp;80 &emsp;42 &emsp;118\
-&emsp;30 &emsp;18 &emsp;44
+94 &emsp;37 &emsp;137\
+80 &emsp;42 &emsp;118\
+30 &emsp;18 &emsp;44
